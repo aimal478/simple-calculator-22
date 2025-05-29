@@ -1,1 +1,1 @@
-# simple-calculator-22
+Simply clear all the contents of the file.
